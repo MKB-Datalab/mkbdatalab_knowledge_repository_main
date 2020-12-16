@@ -49,6 +49,6 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api?username=MKB-Datalab&show_icons=true" alt=MKB-Datalab />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MKB-Datalab" alt="MKB-Datalab" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=MKBDatalab&show_icons=true" alt=MKBDatalab />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MKBDatalab" alt="MKBDatalab" /> </p>
 
