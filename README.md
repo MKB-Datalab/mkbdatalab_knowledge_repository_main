@@ -19,7 +19,7 @@ Within this repository you will find examples of tools and techniques often used
 
 :computer: **CODE** : [Projects](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_projects/tree/master) presented here are made in form of a tutorial so you can apply 
 the same techniques easily to similar cases. The codes presented in this repository are property of MKB Datalab who authorize their use 
-(See [LICENSE](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_projects/blob/master/LICENSE.md)).
+(See [LICENSE](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main/blob/master/LICENSE.md)).
 
 :information_source: **DATASETS** : In order to show the use of the code and allow reproducibility without compromising aspects such as copyright and privacy we have searched 
 for public datasets that would fit the use case considered.
