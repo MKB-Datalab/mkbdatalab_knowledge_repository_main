@@ -34,7 +34,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
   
 | Project | Tags |
 | --- | --- |
-| [**Basics on Web scraping**](https://github.com/dpbac/basics-web-scraping/blob/master/images/webpage_webscraping.JPG) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
+| [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 
 
 </details>  
