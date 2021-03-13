@@ -35,7 +35,6 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 | Project | Tags |
 | --- | --- |
 | [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/retrieving-data-with-apis) | <img src="https://img.shields.io/badge/-%20API -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 
 
@@ -46,6 +45,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 #### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Basics on Web Scraping](https://jadsmkbdatalab.nl/web-scraping/)
+- [Basics on Retrieving Data with APIs](https://jadsmkbdatalab.nl/retrieving-data-with-apis-an-intro/)
 
 <!-- BLOG-POST-LIST:END -->
 
