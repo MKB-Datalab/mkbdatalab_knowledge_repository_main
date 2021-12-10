@@ -50,6 +50,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 - [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
 - [Time Series Part 2: Forecasting with SARIMAX models: An Intro](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
 - [Time Series Part 3: Forecasting with Facebook Prophet: An Intro](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/?preview_id=5288&preview_nonce=49c885e8b4&preview=true)
+- [Marketing Analytics Part 1: Market Basket Analysis](https://jadsmkbdatalab.nl/marketing-analytics-part-1-market-basket-analysis/)
 
 
 <!-- BLOG-POST-LIST:END -->
