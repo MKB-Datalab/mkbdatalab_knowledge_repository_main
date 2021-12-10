@@ -51,7 +51,8 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 
     
 </details>  
----
+
+----
 
 #### Blogs posts
 <!-- BLOG-POST-LIST:START -->
