@@ -37,7 +37,8 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 | [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/retrieving-data-with-apis) | <img src="https://img.shields.io/badge/-%20API -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet) | <img src="https://img.shields.io/badge/-%20Forecasting -yellow"> <img src="https://img.shields.io/badge/-%20ARIMA -yellow"> <img src="https://img.shields.io/badge/-%20statsmodel -yellowgreen"> <img src="https://img.shields.io/badge/-%20FacebookProphet -yellow">  <img src="https://img.shields.io/badge/-Python-blue"> |
-
+| [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | <img src="https://img.shields.io/badge/-%20MarketingAnalytics -red"> <img src="https://img.shields.io/badge/-%20MarketBasketAnalysis -red"> <img src="https://img.shields.io/badge/-%20MLxtend -9cf"> <img src="https://img.shields.io/badge/-Python-blue"> |
+    
 </details>  
 
 ----
