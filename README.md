@@ -42,6 +42,15 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 </details>  
 
 ----
+<details>
+<summary> :interrobang: Knowledge Repository Workshops</summary>
+  
+| Workshop | Tags |
+| --- | --- |
+| [**Program Data Readiness - Workshop Introduction to Power BI**](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi) | <img src="https://img.shields.io/badge/-%20PowerBI -orange">|
+
+    
+</details>  
 
 #### Blogs posts
 <!-- BLOG-POST-LIST:START -->
