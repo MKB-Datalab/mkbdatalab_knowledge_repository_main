@@ -46,6 +46,10 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 <!-- BLOG-POST-LIST:START -->
 - [Basics on Web Scraping](https://jadsmkbdatalab.nl/web-scraping/)
 - [Basics on Retrieving Data with APIs](https://jadsmkbdatalab.nl/retrieving-data-with-apis-an-intro/)
+- [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
+- [Time Series Part 2: Forecasting with SARIMAX models: An Intro](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
+- [Time Series Part 3: Forecasting with Facebook Prophet: An Intro](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/?preview_id=5288&preview_nonce=49c885e8b4&preview=true)
+
 
 <!-- BLOG-POST-LIST:END -->
 
