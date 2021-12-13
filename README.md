@@ -37,18 +37,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 | [**Basics on Web scraping**](https://github.com/MKB-Datalab/basics_web_scraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Basics on Retrieving Data with APIs**](https://github.com/MKB-Datalab/retrieving-data-with-apis) | <img src="https://img.shields.io/badge/-%20API -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
 | [**Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro**](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet) | <img src="https://img.shields.io/badge/-%20Forecasting -yellow"> <img src="https://img.shields.io/badge/-%20ARIMA -yellow"> <img src="https://img.shields.io/badge/-%20statsmodel -yellowgreen"> <img src="https://img.shields.io/badge/-%20FacebookProphet -yellow">  <img src="https://img.shields.io/badge/-Python-blue"> |
-<!-- | [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | <img src="https://img.shields.io/badge/-%20MarketingAnalytics -red"> <img src="https://img.shields.io/badge/-%20MarketBasketAnalysis -red"> <img src="https://img.shields.io/badge/-%20MLxtend -9cf"> <img src="https://img.shields.io/badge/-Python-blue"> |
-     -->
-</details>  
-
-----
-<details>
-<summary> :interrobang: Knowledge Repository Workshops</summary>
-  
-| Workshop | Tags |
-| --- | --- |
-| [**Program Data Readiness - Workshop Introduction to Power BI**](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi) | <img src="https://img.shields.io/badge/-%20PowerBI -orange">|
-
+| [**Marketing Analytics : Market Basket Analysis**](https://github.com/MKB-Datalab/marketing-analysis-part-1-market-basket-analysis) | <img src="https://img.shields.io/badge/-%20MarketingAnalytics -red"> <img src="https://img.shields.io/badge/-%20MarketBasketAnalysis -red"> <img src="https://img.shields.io/badge/-%20MLxtend -9cf"> <img src="https://img.shields.io/badge/-Python-blue"> |
     
 </details>  
 
@@ -61,10 +50,23 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 - [Time Series Part 1: An Introduction to Time Series Analysis](https://jadsmkbdatalab.nl/an-introduction-to-time-series-analysis/)
 - [Time Series Part 2: Forecasting with SARIMAX models: An Intro](https://jadsmkbdatalab.nl/forecasting-with-sarimax-models/)
 - [Time Series Part 3: Forecasting with Facebook Prophet: An Intro](https://jadsmkbdatalab.nl/forecasting-with-facebook-prophet-models-an-intro/?preview_id=5288&preview_nonce=49c885e8b4&preview=true)
-<!-- - [Marketing Analytics Part 1: Market Basket Analysis](https://jadsmkbdatalab.nl/marketing-analytics-part-1-market-basket-analysis/) -->
+- [Marketing Analytics Part 1: Market Basket Analysis](https://jadsmkbdatalab.nl/marketing-analytics-part-1-market-basket-analysis/)
 
 
 <!-- BLOG-POST-LIST:END -->
+
+----
+<details>
+<summary> :interrobang: Knowledge Repository Workshops</summary>
+  
+| Workshop | Tags |
+| --- | --- |
+| [**Program Data Readiness - Workshop Introduction to Power BI**](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi) | <img src="https://img.shields.io/badge/-%20PowerBI -orange">|
+
+    
+</details>  
+
+
 
 ----
 
