@@ -43,7 +43,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 
 ----
 
-#### Blogs posts
+#### :newspaper: Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Basics on Web Scraping](https://jadsmkbdatalab.nl/web-scraping/)
 - [Basics on Retrieving Data with APIs](https://jadsmkbdatalab.nl/retrieving-data-with-apis-an-intro/)
