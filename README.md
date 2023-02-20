@@ -62,7 +62,7 @@ Like this, we hope to provide a valuable source for students, enterprises, and a
 | Workshop | Tags |
 | --- | --- |
 | [**Masterclass: Basics on Web scraping**](https://github.com/MKB-Datalab/masterclass-basics-webscraping) | <img src="https://img.shields.io/badge/-Web%20Scraping -blueviolet"> <img src="https://img.shields.io/badge/-Python-blue"> |
-| [**Program Data Readiness - Workshop Introduction to Power BI**](https://github.com/MKB-Datalab/workshop-data-readiness-power-bi) | <img src="https://img.shields.io/badge/-%20PowerBI -orange">|
+| [**Masterclass - Introduction to Power BI**](https://github.com/MKB-Datalab/masterclass-power-bi-2023) | <img src="https://img.shields.io/badge/-%20PowerBI -orange">|
     
 </details>  
 
